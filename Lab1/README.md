@@ -76,6 +76,12 @@ body {
     - Add borders as gray color solid lines to separate each section.
     - Center the text in each section.
 ```css
+Header, Nav, Article, div, Footer {
+    padding: 10px;
+    background-color: yellow;
+    border: 1px solid gray;
+    text-align: center;
+}
 ```
 
 ---
