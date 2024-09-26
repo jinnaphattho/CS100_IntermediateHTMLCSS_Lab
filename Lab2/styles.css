@@ -28,7 +28,11 @@ header p {
 nav {
     background-color: #ffa41b;
     padding: 15px;
+    padding-top: 20px;
     text-align: center;
+    width: 20%;
+    float: left;
+    height: 100vh;
 }
 
 nav ul {
@@ -38,8 +42,8 @@ nav ul {
 }
 
 nav ul li {
-    display: inline-block;
-    margin: 0 15px;
+    display: block;
+    margin: 25px 0;
 }
 
 nav ul li a {
