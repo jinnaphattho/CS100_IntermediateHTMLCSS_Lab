@@ -33,6 +33,8 @@ nav {
     width: 20%;
     float: left;
     height: 100vh;
+    position: sticky;
+    top: 0px;
 }
 
 nav ul {
